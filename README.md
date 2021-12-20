@@ -19,7 +19,7 @@ Now u can see list of codes !
 
 Accuracy:
 
-there is like 40 # of chances u can get it right ! but i hope guys be lucky  to find one Amazon gift voucher worth of 1$ - 100$ 
+there is like 40 % of chances u can get it right ! but i hope guys be lucky  to find one Amazon gift voucher worth of 1$ - 100$ 
 i hope u guys having fun!
 
 
