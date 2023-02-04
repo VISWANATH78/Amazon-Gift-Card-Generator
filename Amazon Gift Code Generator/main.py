@@ -9,7 +9,7 @@ def g(choice):
         choice=choice-1
     return result
 print("How many codes to be genrated ?")
-number = input(">")
+number = 10
 print("")
 n = int(number)
 n = int(number)
